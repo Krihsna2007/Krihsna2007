@@ -2,7 +2,7 @@
 
 <img width="1200" height="320" alt="cyber-header" src="https://github.com/user-attachments/assets/615954a5-0f13-4ace-8ff0-a841e12c6e77" />
 <img width="1100" height="620" alt="01-whoami" src="https://github.com/user-attachments/assets/b8a36d9f-1e7c-4a05-8b94-5ff46fdd5c95" />
-<img width="1100" height="620" alt="02-about-me" src="https://github.com/user-attachments/assets/10dbc21b-2abe-4762-93a2-c6ef3e317542" />
+<img width="1100" height="620" alt="02-about-me" src="https://github.com/user-attachments/assets/067b13fd-43cc-4fb6-993e-cbacd90608ab" />
 <img width="1100" height="620" alt="03-current-mission" src="https://github.com/user-attachments/assets/d5abbf66-54c2-4c02-be73-30aab1f074f2" />
 <img width="1100" height="620" alt="04-tech-stack" src="https://github.com/user-attachments/assets/f1fe267a-9c13-49ef-961e-6666b71d4696" />
 <img width="1100" height="620" alt="05-calendrite" src="https://github.com/user-attachments/assets/d14165e7-9089-49fa-bf94-7fe9b5492774" />
